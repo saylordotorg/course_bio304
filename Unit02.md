@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Chemical Composition of the Body and Cell Structure** <span
 id="2"></span> 
 *This unit will cover the basic concepts of chemistry, which are

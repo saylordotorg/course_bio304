@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Muscular System** <span id="7"></span> 
 *The muscular system allows the body to move, inside and out. Often we
 think of the muscular system as big biceps like Popeye or strong leg

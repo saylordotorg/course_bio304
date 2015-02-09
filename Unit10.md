@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: The Respiratory System** <span id="10"></span> 
 *The respiratory system depends on the heart to pump blood to the lungs.
 In capillaries found in the lungs, carbon dioxide detaches from the

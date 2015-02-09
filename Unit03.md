@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Enzymes, Cellular Respiration, and Cellular Metabolism** <span
 id="3"></span> 
 *Protein enzymes play a significant role in catalyzing (speeding up the

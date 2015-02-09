@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: The Digestive System** <span id="12"></span> 
 *The digestive system begins in the mouth and continues through the
 stomach and intestines, ending at the anus. In the mouth, chemical and

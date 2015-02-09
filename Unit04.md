@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Movement of Materials and Cell Signaling** <span
 id="4"></span> 
 *This unit will discuss the fluid compartments in the body and the

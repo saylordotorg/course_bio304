@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Nervous System** <span id="5"></span> 
 *The nervous system allows us to think and act. Typing on your keyboard
 happens because of signals between the brain and the neurons and muscles

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: Metabolism** <span id="13"></span> 
 *All systems contribute to an organism’s metabolism. The digestive
 system absorbs nutrients such as glucose, lipids, and amino acids that

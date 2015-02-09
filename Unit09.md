@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Cardiovascular System** <span id="9"></span> 
 *The heart and the circulatory system use blood to deliver oxygen and
 nutrients to the body cells and to remove carbon dioxide and wastes. The

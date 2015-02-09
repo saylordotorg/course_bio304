@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Physiology** <span id="1"></span> 
 *The study of physiology requires you to grasp a few basic concepts.
 This brief unit will review concepts including the overall organization

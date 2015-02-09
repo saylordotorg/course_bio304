@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO304: Human Physiology"
+course_description: "A study of the physiological processes that occur within the human body, with particular attention on enzyme activity, cell signaling, metabolic processes, protein synthesis, and movement."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Sensory System** <span id="6"></span> 
 *This unit reviews the mechanics behind sensory reception and our
 interpretation of sensory input. In this unit, you will learn how our
