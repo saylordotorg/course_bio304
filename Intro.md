@@ -154,4 +154,21 @@ you can sit down with your calendar and decide to complete subunit 1.1
 (a total of 1.5 hours) on Monday night; subunit (a total of 3 hours) on
 Tuesday night; etc.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/bio304/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio304/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio304/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio304/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio304/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio304/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio304/Unit07/)
+- [Unit 8](https://legacy.saylor.org/bio304/Unit08/)
+- [Unit 9](https://legacy.saylor.org/bio304/Unit09/)
+- [Unit 10](https://legacy.saylor.org/bio304/Unit10/)
+- [Unit 11](https://legacy.saylor.org/bio304/Unit11/)
+- [Unit 12](https://legacy.saylor.org/bio304/Unit12/)
+- [Unit 13](https://legacy.saylor.org/bio304/Unit13/)
+- [Unit 14](https://legacy.saylor.org/bio304/Unit14/)
+- [Unit 15](https://legacy.saylor.org/bio304/Unit15/)
+- [Unit 16](https://legacy.saylor.org/bio304/Unit16/)
