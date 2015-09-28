@@ -173,3 +173,4 @@ Tuesday night; etc.
 - [Unit 14](https://legacy.saylor.org/bio304/Unit14/)
 - [Unit 15](https://legacy.saylor.org/bio304/Unit15/)
 - [Unit 16](https://legacy.saylor.org/bio304/Unit16/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO304/BIO304-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO304/BIO304-FinalExam-Answers.html)
