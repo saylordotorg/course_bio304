@@ -79,7 +79,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to Anatomy”**
     Link: Biology Corner’s *Anatomy and Physiology*: [“Chapter 1:
     Introduction to
-    Anatomy”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/The-Biology-Corners-Anantomy-and-Physiology-Ch.-1.pdf) (PDF)   
+    Anatomy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/The-Biology-Corners-Anantomy-and-Physiology-Ch.-1.pdf) (PDF)   
         
      Instructions: Read the notes linked above to get an overall
     description of how tissues make up organs and how organs work

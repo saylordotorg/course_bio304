@@ -49,7 +49,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Boundless: “Brief Overview of Male and Female
     Reproductive System”**
     Link: Boundless: [“Brief Overview of Male and Female Reproductive
-    System”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/BIO304-14.1-BriefOverviewofMaleandFemaleReproductiveSystem.pdf) (PDF)  
+    System”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/BIO304-14.1-BriefOverviewofMaleandFemaleReproductiveSystem.pdf) (PDF)  
         
      Instructions: Read this article, which provides an overview of
     human sexual reproduction, and both male and female reproductive
